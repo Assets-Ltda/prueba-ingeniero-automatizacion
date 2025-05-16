@@ -132,8 +132,17 @@ Puedes usar librerías como `faker`, `psycopg2` o `sqlalchemy`. Asegúrate de no
 
 ## 📝 Entrega
 
-- Por favor entrega tus consultas SQL y el script Python (si haces la pregunta bonus) en un repositorio o carpeta compartida.
-- Si necesitas agregar comentarios o supuestos, hazlo como comentarios dentro del código SQL o Python.
+La entrega debe ser un **repositorio en GitHub** que incluya lo siguiente:
+
+- Archivos `.sql` con las consultas para cada pregunta.
+- Script(s) Python si se resolvió la pregunta Bonus.
+- Código completo de la UI web para la creación de semanas.
+- Un archivo `README.md` con instrucciones claras sobre cómo ejecutar:
+  - Las consultas SQL.
+  - El script de datos masivos.
+  - La interfaz web (incluyendo cómo conectar con la base de datos).
+
+El repositorio debe estar ordenado y contener comentarios si hay supuestos o decisiones de diseño importantes.
 
 ---
 
